@@ -17,7 +17,7 @@ CLASS_NAMES = [
 ]
 
 # 1. Load the data: 70,000 images of 28x28 pixels, flattened to 784 numbers each.
-print("Loading Fashion-MNIST (this can take a minute)...")
+print("Loading Fashion-MNIST (70,000 images of 28x28 pixels)...")
 X, y = fetch_openml("Fashion-MNIST", version=1, as_frame=False, return_X_y=True)
 
 # 2. Prepare the data: scale pixels from 0-255 to 0-1, and hold out a test set.
