@@ -1,5 +1,6 @@
 # Overview
-
+This is a uni week 4 task for unit MAI500 Emerging Topics in Artificial Intelligence
+The document is converted to .md from the submitted .docx format
 I used two supervised learning models to classify images of clothes into 10 categories.
 
 # Details
