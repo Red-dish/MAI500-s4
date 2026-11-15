@@ -23,7 +23,7 @@ Weekly task for MAI500 (Machine Learning Algorithms).
 | Logistic regression | **85.5%** | ~75 s |
 | Decision tree | 81.1% | ~29 s |
 
-Random guessing would get about 10%. The full write-up is in [MAI500-report.md](MAI500-report.md).
+Random guessing would get about 10%. The full write-up is in [Project Report.md](Project%20Report.md).
 
 ## How to run
 
@@ -44,4 +44,4 @@ On the first run the dataset is downloaded from OpenML, which can take a while. 
 |---|---|
 | `train.py` | Loads the data, prepares it, and trains and evaluates both models |
 | `pyproject.toml`, `uv.lock` | Project dependencies (scikit-learn, pandas) |
-| `MAI500-report.md` | Submitted report, with screenshots in `report-media/` |
+| `Project Report.md` | Submitted report, with screenshots in `report-media/` |
